@@ -9,7 +9,7 @@ _x2 = cp.Variable()
 _m = 2
 _u = 1.2
 fi = -cp.log(_x1+_x2-4)
-_t = 1
+_t = 2
 for i in range(10000):
     func = (_x1-2)**2 + 3*_x2 + (1/_t)*fi
     if((_m/_t) < _eps):
