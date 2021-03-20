@@ -10,11 +10,11 @@ He wants to minimize the  money he spends on food while respecting the calorie a
 
 Below is the table detailing the price, calories and time needed to get one portion of food from each option.
 
-|          | A    | B    | C    |
-| -------- | ---- | ---- | ---- |
-| Calories | 800  | 1600 | 400  |
-| Price    | 2    | 2    | 6    |
-| Time     | 25   | 1    | 5    |
+|          | A    | B    |
+| -------- | ---- | ---- |
+| Calories | 90  | 900 |
+| Price    | 8    | 1    |
+| Time     | 3   | 50    |
 
 
 
